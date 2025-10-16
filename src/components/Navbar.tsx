@@ -14,7 +14,7 @@ export const Navbar = () => {
             <div className="w-10 h-10 rounded-lg bg-gradient-to-br from-primary to-accent flex items-center justify-center">
               <Code2 className="w-6 h-6 text-primary-foreground" />
             </div>
-            <span className="text-xl font-bold">DevLearn</span>
+            <span className="text-xl font-bold">GenZEd</span>
           </div>
           
           {/* Desktop Navigation */}

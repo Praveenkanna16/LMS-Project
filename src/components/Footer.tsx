@@ -11,7 +11,7 @@ export const Footer = () => {
               <div className="w-10 h-10 rounded-lg bg-gradient-to-br from-primary to-accent flex items-center justify-center">
                 <Code2 className="w-6 h-6 text-primary-foreground" />
               </div>
-              <span className="text-xl font-bold">DevLearn</span>
+              <span className="text-xl font-bold">GenZEd</span>
             </div>
             <p className="text-sm text-muted-foreground">
               Empowering developers through interactive learning and real-world projects.
@@ -67,7 +67,7 @@ export const Footer = () => {
         </div>
         
         <div className="mt-12 pt-8 border-t border-border text-center text-sm text-muted-foreground">
-          <p>&copy; 2024 DevLearn. All rights reserved.</p>
+          <p>&copy; 2024 GenZEd. All rights reserved.</p>
         </div>
       </div>
     </footer>
